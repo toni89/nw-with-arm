@@ -14,7 +14,7 @@ the system is ARM based the 0.12.2 package will be downloaded.
 }
 ```
 
- ## Get bin path
+## Get bin path
  ```js
  var findpath = require('nw-with-arm').findpath;
  var nwpath = findpath();
