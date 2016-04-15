@@ -1,6 +1,6 @@
 {
   "name": "nw-with-arm",
-  "version": "0.14.0",
+  "version": "0.12.2",
   "description": "NW Installer including ARM-Build",
   "homepage": "https://github.com/toni89/nw-with-arm#readme",
   "repository": {
@@ -24,5 +24,14 @@
     "bin",
     "scripts",
     "index.js"
+  ],
+  "keywords": [
+    "nw",
+    "nw.js",
+    "nwjs",
+    "node-webkit",
+    "arm",
+    "installer",
+    "webkit"
   ]
 }
