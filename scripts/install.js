@@ -35,7 +35,7 @@ if ( version.slice(-4) === '-sdk' ){
 // Sources & Targets
 var url = false;
 var armUrl = 'https://github.com/LeonardLaszlo/nw.js-armv7-binaries/raw/master/nwjs-v0.12.2-linux-arm.tar.gz';
-var urlBase = 'http://dl.nwjs.io/v';
+var urlBase = 'https://dl.nwjs.io/v';
 var targetFolder = path.join(__dirname, './../bin');
 
 
